@@ -1,0 +1,6 @@
+Django==2.0.13
+django-bootstrap-static==4.0.0
+djangorestframework==3.9.4
+goto-statement==1.2
+Pillow==2.2.2
+pytz==2019.2
